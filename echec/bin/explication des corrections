@@ -1,0 +1,22 @@
+
+
+-changer class executeur en main+ ajout de la fonction main (auto générée)
+
+-indentation en utilisant la manip source + format et espace sur toutes les classes + parfois certains espaces sont supprimés 
+
+-piece.java  mettre en abstract car piece herite deja de mouvement 
+
+-pion.java j'ai modifié la fonction a coté car le int x n'étais pas utilisé
+
+-j'ai ranger mes différents fichiers et utiliser l'ide pour une meilleur visibilité 
+
+-pour la reine j'ai combiné les proprieté du fou et de la tour deplacement
+
+
+conclusion 
+La principale difficulté pour moi a été de m'approprier le code , 
+car les fichiers n'étaient classés dans aucun package, ce qui rendait 
+la lecture difficile.
+Ensuite ce qui m'a sauté aux c'était l'indentation et la forme du code.
+Enfin pour avancer je me suis inspiré du reste du code notamment pour faire 
+la classe reine. Mais aussi pour les soucis liés aux arguments. 
